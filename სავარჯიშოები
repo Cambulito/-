@@ -1,0 +1,49 @@
+
+
+//  პირველი დავალება 
+
+inst a;
+
+inst b;
+
+inst c;
+
+inst sum;
+ 
+ sum=a+b+c;
+
+//  მეორე დავალება 
+
+inst a;
+
+inst b;
+   
+  b=a;
+
+inst c;
+ 
+  c=a+3;
+
+inst d;
+ 
+  d=a+b;
+ 
+//  მესამე დავალება 
+
+inst b;
+
+inst a;
+ 
+  a=b-1+b+1;
+
+//  მეოთხე დავალება 
+
+inst a;
+
+inst b; 
+
+inst c;
+  
+  c=a=b=a;
+
+
